@@ -1,0 +1,9 @@
+{
+  "name": "FrenchPath Canada — My TEF/TCF Coach",
+  "short_name": "FrenchPath",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5efe3",
+  "theme_color": "#102c28",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
